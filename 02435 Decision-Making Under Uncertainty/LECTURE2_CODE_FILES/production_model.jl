@@ -38,7 +38,7 @@ demand = [[20126.87, 22451.75, 11361.12, 11614.00, 23060.0, ],
     [15363.43, 23237.50, 17813.42, 21893.36, 19234.42 ],
     [18530.96, 23853.25, 14233.27, 25578.64, 14084.92 ]]
 
-# Probability per scenario, call probabilities[s]    
+# Probability per scenario, call probabilities[s]
 probabilities = [0.23, 0.04, 0.26, 0.11, 0.36]
 
 #Compatibility between product and machine type, 1 if compatible, 0 otherwise

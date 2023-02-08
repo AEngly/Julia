@@ -3,8 +3,6 @@ using JuMP
 using Gurobi
 using Printf
 
-
-
 #Yield parameter
 yield_wheat = 2.5
 yield_corn = 3.0
